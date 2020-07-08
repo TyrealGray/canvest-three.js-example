@@ -1,0 +1,19 @@
+{
+  "name": "canvest-three.js-example",
+  "version": "1.0.0",
+  "description": "Canvest example for testing three.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TyrealGray/canvest-three.js-example.git"
+  },
+  "author": "tyreal",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/TyrealGray/canvest-three.js-example/issues"
+  },
+  "homepage": "https://github.com/TyrealGray/canvest-three.js-example#readme"
+}
