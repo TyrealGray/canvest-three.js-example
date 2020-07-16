@@ -1,5 +1,5 @@
 # canvest-three.js-example
-Canvest example for testing three.js
+[Canvest](https://github.com/TyrealGray/Canvest) example for testing three.js
 
 ### install and run
 ```
