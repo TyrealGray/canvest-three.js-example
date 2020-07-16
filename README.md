@@ -5,3 +5,5 @@ Canvest example for testing three.js
 ```
 $ npm i && npm test
 ```
+
+![preview](preview.jpg)
